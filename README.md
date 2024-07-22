@@ -15,7 +15,7 @@ Some of these entries will mark my progress and some notes about where I've left
     - do it as you're doing your work - use smart notes
 - Use [Smart Notes](https://docdrop.org/download_annotation_doc/How-to-Take-Smart-Notes-by-So%CC%88nke-Ahrens-40zol.pdf) 
 - [Deliberately Practice](https://jamesclear.com/deliberate-practice-strategy)
-- 
+
 
 ## Resources
 This repo was inspired by the following resources.  
