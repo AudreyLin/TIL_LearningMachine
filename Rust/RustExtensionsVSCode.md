@@ -16,3 +16,4 @@ I installed these Rust extensions into my VSCode:
 ### Resource that suggested these extensions
 
 - [Rust 101 - How to set up VS Code for Rust](https://youtu.be/Mfv8zFzDFvI?si=zKVyl_ePQo9BtBh1)
+- [Rust in VS Code](https://code.visualstudio.com/docs/languages/rust)
